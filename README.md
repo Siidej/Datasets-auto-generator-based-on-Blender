@@ -14,3 +14,6 @@ Using **Blender 2.91** on **Pop!\_OS 20.04 LTS**
 Detection using [YOLOv5](https://github.com/ultralytics/yolov5) trained by generated dataset
 ![image](https://github.com/Siidej/Datasets-auto-generator-based-on-Blender/blob/main/imgForIntro/test.png) 
 ![image](https://github.com/Siidej/Datasets-auto-generator-based-on-Blender/blob/main/imgForIntro/res.png)
+
+# For real object detection
+According to this [paper](https://arxiv.org/abs/1811.12231), pay attention to the texture of model to render.
