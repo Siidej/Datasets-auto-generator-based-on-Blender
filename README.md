@@ -6,9 +6,9 @@ Using **Blender 2.91** on **Pop!\_OS 20.04 LTS**
 
 # Getting Started
 1) Prepare your 3D models (\*.blend files) and backgrounds (\*.hdr files).
-2) Paste the code into **Blender Scripting Window** and change to absolute paths of your models folder and backgrounds folder, unless your know where your *blender script* placed.
+2) Paste the code into **Blender Scripting Window** and change to absolute paths of your models folder and backgrounds folder, unless you know where your *blender script* placed.
 3) Chage some variables like *image numbers* etc. 
-4) **Note that this code also generate KITTI format dataset for my other project, and it's not 100% correct for other general using. But the COCO dataset does.**
+4) **Note that this code also generates KITTI format dataset for my other project, and it's not 100% correct for other general using. But the COCO dataset does.**
 
 # Result
 Detection using [YOLOv5](https://github.com/ultralytics/yolov5) trained by generated dataset
