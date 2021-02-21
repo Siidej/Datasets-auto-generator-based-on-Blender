@@ -17,3 +17,7 @@ Detection using [YOLOv5](https://github.com/ultralytics/yolov5) trained by gener
 
 # For real object detection
 According to this [paper](https://arxiv.org/abs/1811.12231), pay attention to the texture of model to render.
+## real object detection using YOLOv5 trained by fake dataset  
+![image](https://github.com/Siidej/Datasets-auto-generator-based-on-Blender/blob/main/imgForIntro/fake.png) 
+![image](https://github.com/Siidej/Datasets-auto-generator-based-on-Blender/blob/main/imgForIntro/detection.png)  
+Note: For saving time, used Evee (Blender real-time render engine) to render the training set (1500 images) and Cycles to render the validation set (500 images). So, theoretically, using Cycles for both will have a better performance. 
