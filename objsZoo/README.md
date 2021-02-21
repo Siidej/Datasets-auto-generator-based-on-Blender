@@ -15,3 +15,7 @@ From : [BLEND SWAP](https://www.blendswap.com/)
 ## Telecaster :
 Author : [83nofx93](https://www.blendswap.com/profile/306254)  
 From : [BLEND SWAP](https://www.blendswap.com/)
+
+## Euro coins :
+Author : [jobojobojobo](https://www.blendswap.com/profile/854010)  
+From : [BLEND SWAP](https://www.blendswap.com/)
